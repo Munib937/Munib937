@@ -49,3 +49,9 @@ Custom business and portfolio websites built with WordPress.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munib937&" alt="munib937" /></p>
 
+### 💡 Quote
+
+"Great web experiences are built with clean code, creativity, and continuous learning."
+
+⭐ Thanks for visiting my profile!
+
