@@ -1,6 +1,10 @@
 ![logo](https://github.com/Munib937/Munib937/blob/main/Blue%20Modern%20Software%20Engineer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Munib</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munib937&label=Profile%20views&color=0e75b6&style=flat" alt="munib937" /> </p>
+<img align="right" alt = "coding" width="400px" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
  ⚛️ Building web applications using React.js<br>
  🎨 Skilled in HTML, CSS, JavaScript & Bootstrap Frontend Library: React.js & Next.js<br> 
  🌐 Experienced in WordPress Website Development<br>
@@ -8,10 +12,11 @@
  📚 Currently improving my React and JavaScript skills<br>
  🎯 Goal: To work on professional and large-scale web projects<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munib937&label=Profile%20views&color=0e75b6&style=flat" alt="munib937" /> </p>
-<img align="right" alt = "coding" width="400px" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munib937&label=Profile%20views&color=0e75b6&style=flat" alt="munib937" /> </p>
+<img align="right" alt = "coding" width="400px" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"> -->
 
-- 🔭 I’m currently working on **React App ,**
+<br>
+- 🔭 I’m currently working on **React App ,**<br>
 
 
 ## 🤝 Connect With Me
@@ -19,9 +24,7 @@
 - 📧 Email: muhammadmunib937@gmail.com
 - 💼 LinkedIn: Your LinkedIn 
 - 🌐 Portfolio: https://muhammadmunib.netlify.app/
-<!-- <p align="left">
-<a href="https://www.topcoder.com/members/61010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="61010" height="30" width="40" /></a>
-</p> -->
+
 
 ## 📂 Featured Projects
 
